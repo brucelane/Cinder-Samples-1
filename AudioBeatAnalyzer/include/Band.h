@@ -7,6 +7,7 @@
 //
 
 #pragma once
+#include "cinder/app/App.h"
 #include <list>
 
 using namespace ci;

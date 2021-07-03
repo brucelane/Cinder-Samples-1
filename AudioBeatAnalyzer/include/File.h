@@ -8,6 +8,7 @@
 
 #pragma once
 #include "cinder/Xml.h"
+#include "cinder/app/App.h"
 
 #include <sstream>
 #include <fstream>
